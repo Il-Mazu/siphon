@@ -1,3 +1,2 @@
-# Local planning / research — keep out of the public repo
-docs/siphon-backlog.md
-docs/MultiAgent.txt
+docs/
+.gitignore
