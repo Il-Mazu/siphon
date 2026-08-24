@@ -18,6 +18,8 @@ irm https://static.devin.ai/cli/setup.ps1 | iex
 
 ## Antigravity
 
+**Command:** `agy`
+
 **macOS/Linux:**
 
 ```bash
